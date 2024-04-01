@@ -19,3 +19,4 @@ Beyond the Basics (Optional):
 Hear the Code: Incorporate audio generation libraries (like playsound) to transform Morse code into audible beeps.
 Global Reach: Expand character support to encompass international characters.
 Command Line Power: Craft a command-line interface for a more robust and versatile experience.
+
